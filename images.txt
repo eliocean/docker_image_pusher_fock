@@ -21,7 +21,7 @@ mzz2017/v2raya
 v2fly/v2fly-core
 
 # zxhacker server
-freshrss
+freshrss/freshrss
 
 # kali images
 kalilinux/kali-rolling
